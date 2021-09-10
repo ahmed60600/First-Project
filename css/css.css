@@ -365,6 +365,7 @@ color: var(--main-color);
     border-color: var(--main-color);
     margin-left: 3px;
     width: 50%;
+    margin-top:-2px;
 }
 .about .about-content .text p:last-of-type{
     color: #777;
